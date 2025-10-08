@@ -2,6 +2,7 @@
 // Testing the Math class methods.
 public class MathTest {
    public static void main(String[] args) {
+      System.out.printf("Empieza la fiesta de las matemáticas");
       System.out.printf("Math.abs(23.7) = %f%n", Math.abs(23.7));
       System.out.printf("Math.abs(0.0) = %f%n", Math.abs(0.0));
       System.out.printf("Math.abs(-23.7) = %f%n", Math.abs(-23.7));
@@ -24,6 +25,7 @@ public class MathTest {
       System.out.printf("Math.sin(0.0) = %f%n", Math.sin(0.0));
       System.out.printf("Math.sqrt(900.0) = %f%n", Math.sqrt(900.0));
       System.out.printf("Math.tan(0.0) = %f%n", Math.tan(0.0));
+      System.out.printf("Termina la fiesta");
    } 
 } 
 
