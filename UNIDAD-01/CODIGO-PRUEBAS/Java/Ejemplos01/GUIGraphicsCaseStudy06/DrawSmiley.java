@@ -14,7 +14,7 @@ public class DrawSmiley extends Application {
          FXMLLoader.load(getClass().getResource("DrawSmiley.fxml"));
 
       Scene scene = new Scene(root); // attach scene graph to scene
-      stage.setTitle("Draw Smiley"); // displayed in window's title bar
+      stage.setTitle("Draw Smiley - prueba ejercicio"); // displayed in window's title bar
       stage.setScene(scene); // attach scene to stage
       stage.show(); // display the stage
    }
