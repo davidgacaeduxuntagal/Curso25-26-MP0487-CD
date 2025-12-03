@@ -9,7 +9,7 @@ public class MaximumFinder {
 
       // prompt for and input three floating-point values
       System.out.print(
-         "Enter three floating-point values separated by spaces: ");
+         "Enter three floating-point values separated by spaces CAMBIO EXAMEN: ");
       double number1 = input.nextDouble(); // read first double
       double number2 = input.nextDouble(); // read second double
       double number3 = input.nextDouble(); // read third double
